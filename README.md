@@ -10,7 +10,6 @@ Hi! I'm Wail (pronounce while) a Full Stack Developer from Khartoum, SUDAN
 
 - [Personal webstie ](https://wabualela.dev)
 - [Linkedin](https://www.linkedin.com/in/wabualela/)
-- [Facebook](https://web.facebook.com/wailabualelaosman/)
 
 ## GitHub Stats
 
