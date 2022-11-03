@@ -1,4 +1,4 @@
-# Hi friend, Hello friend welcome to hub.
+# Hi friend, Hello friend, how are you? hopefully good & well.
 
 I'm Wail (pronounce while) a Full Stack Developer from Khartoum, SUDAN
 
